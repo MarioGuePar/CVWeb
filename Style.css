@@ -24,12 +24,6 @@ header{
     line-height: 70px;
 }
 
-header img{
-    height: 100%;
-    align-self: center;
-}
-
-
 nav{
     background-color: darkslategrey;
     height: 70px;
@@ -41,6 +35,7 @@ nav{
 nav a{
     color: white;
 }
+
 nav ul li{
     float: left;
     margin: 10px;
