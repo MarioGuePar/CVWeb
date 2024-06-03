@@ -71,8 +71,9 @@ nav ul li img{
 
 #contenido{
     float: right;
-    width: 70%;
+    width: 80%;
     height: 100%;
+    text-align: center;
 }
 #contenido a{
     text-decoration: none;
@@ -88,11 +89,6 @@ nav ul li img{
 
 #contenido a:visited{
     color:darkred;
-}
-
-#contenido img{
-    width: 100%;
-    height: 100%;
 }
 
 #contenido ul li{
@@ -138,4 +134,14 @@ aside nav img{
 
 a{
     color: white;
+}
+
+h1 {
+    color: yellow;
+}
+
+footer{
+    bottom: revert;
+    background-color: darkolivegreen;
+    color: yellow;
 }
