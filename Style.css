@@ -141,7 +141,22 @@ h1 {
 }
 
 footer{
-    bottom: revert;
-    background-color: darkolivegreen;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     color: yellow;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+footer a:link{
+    color:pink;
+}
+
+footer a:hover{
+    color:deeppink;
 }
